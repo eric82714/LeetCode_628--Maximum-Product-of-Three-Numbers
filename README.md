@@ -14,7 +14,7 @@ Input: [1,2,3,4]
 
 Output: 24 
 
-Note:
+# Note:
 
 1. The length of the given array will be in range [3,104] and all elements are in the range [-1000, 1000].
 
